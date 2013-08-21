@@ -17,24 +17,27 @@ class Schedule
 
     @weeks = page.search('//table[@class="tablehead"]').map do |table|
       games = table.search('tr').map do |row|
-        value = row.at('td[1]').text.strip rescue 'n/a'
-        type = row['class']
-        case type
+        case row['class']
           when 'colhead'
-            date = value
+            date = row.at('td[1]').text.strip
             nil
           when 'stathead'
             nil
           else
-            guest, home = value.split(/ at /)
+            first_td = row.at('td[1]')
+            if first_td['colspan']
+              nil
+            else
+              guest, home = first_td.text.strip.split(/ at /)
 
-            starts = row.at('td[2]').text.strip rescue 'n/a'
+              starts = row.at('td[2]').text.strip
 
-            {
-                :home => home,
-                :guest => guest,
-                :starts => date + ', ' + starts
-            }
+              {
+                  :home => home,
+                  :guest => guest,
+                  :starts => convert_date(date, starts)
+              }
+            end
         end
       end
       weekCount += 1
@@ -43,6 +46,12 @@ class Schedule
           :games => games.compact
       }
     end
+  end
+
+  def convert_date(date, starts)
+    _, _, month, day = date.split(/[, ]/)
+
+    month.capitalize + ' ' + day + ', 2013 ' + starts
   end
 
   def export
