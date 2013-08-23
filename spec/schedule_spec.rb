@@ -41,7 +41,8 @@ describe Schedule do
     schedule = Schedule.new
 
     it 'must produce correctly formatted date' do
-      schedule.convert_date('SUN, SEP 8', '1:00 PM').should == 'Sep 8, 2013 1:00 PM'
+      schedule.convert_date('SUN, SEP 8', '1:00 PM').should == 'Sep 8, 2013 1:00:00 PM'
+      schedule.convert_date('SUN, SEP 8', '4:35 AM').should == 'Sep 8, 2013 4:35:00 AM'
     end
   end
 end

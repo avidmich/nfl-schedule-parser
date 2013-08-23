@@ -6,6 +6,45 @@ class Schedule
 
   attr_accessor :year, :weeks
 
+  def initialize
+    @teams = {
+        'NY Giants' => 'Giants',
+        'NY Jets' => 'Jets',
+        'Baltimore' => 'Ravens',
+        'Denver' => 'Broncos',
+        'New England' => 'Patriots',
+        'Buffalo' => 'Bills',
+        'Cincinnati' => 'Bengals',
+        'Chicago' => 'Bears',
+        'Miami' => 'Dolphins',
+        'Cleveland' => 'Browns',
+        'Atlanta' => 'Falcons',
+        'New Orleans' => 'Saints',
+        'Tampa Bay' => 'Buccaneers',
+        'Tennessee' => 'Titans',
+        'Pittsburgh' => 'Steelers',
+        'Minnesota' => 'Vikings',
+        'Detroit' => 'Lions',
+        'Oakland' => 'Raiders',
+        'Indianapolis' => 'Colts',
+        'Seattle' => 'Seahawks',
+        'Carolina' => 'Panthers',
+        'Kansas City' => 'Chiefs',
+        'Jacksonville' => 'Jaguars',
+        'Arizona' => 'Cardinals',
+        'St. Louis' => 'Rams',
+        'Green Bay' => 'Packers',
+        'San Francisco' => '49ers',
+        'Dallas' => 'Cowboys',
+        'Philadelphia' => 'Eagles',
+        'Washington' => 'Redskins',
+        'Houston' => 'Texans',
+        'San Diego' => 'Chargers'
+    }
+
+    @misses = []
+  end
+
   def import_html(url)
 
     @year = url.split(/\//).last
@@ -30,6 +69,9 @@ class Schedule
             else
               guest, home = first_td.text.strip.split(/ at /)
 
+              guest = @teams.fetch(guest) { @misses << guest; guest }
+              home = @teams.fetch(home) { @misses << home; home }
+
               starts = row.at('td[2]').text.strip
 
               {
@@ -51,10 +93,12 @@ class Schedule
   def convert_date(date, starts)
     _, _, month, day = date.split(/[, ]/)
 
-    month.capitalize + ' ' + day + ', 2013 ' + starts
+    month.capitalize + ' ' + day + ', 2013 ' + starts.gsub(/ ([A|P]M)/, ':00 \1')
   end
 
   def export
+    puts @misses.uniq
+
     @season = {}
 
     @season[:year] = @year if @year
