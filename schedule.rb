@@ -45,16 +45,17 @@ class Schedule
     @misses = []
   end
 
-  def import_html(url)
+  def import_html(url, year)
 
-    @year = url.split(/\//).last
+    @year = year
 
-    page = Nokogiri::HTML(open(url))
-
-    weekCount = 0
     date = ''
 
-    @weeks = page.search('//table[@class="tablehead"]').map do |table|
+    @weeks = (1..17).map do |week_id|
+      page = Nokogiri::HTML(open(url + week_id.to_s))
+
+      table = page.search('//table[@class="tablehead"]').first
+
       games = table.search('tr').map do |row|
         case row['class']
           when 'colhead'
@@ -82,18 +83,21 @@ class Schedule
             end
         end
       end
-      weekCount += 1
+
       {
-          :position => weekCount,
+          :position => week_id,
           :games => games.compact
       }
+
     end
+
   end
 
   def convert_date(date, starts)
     _, _, month, day = date.split(/[, ]/)
 
-    month.capitalize + ' ' + day + ', 2013 ' + starts.gsub(/ ([A|P]M)/, ':00 \1')
+    time = starts.gsub(/ ([A|P]M)/, ':00 \1')
+    "#{month.capitalize} #{day}, #{@year} #{time}"
   end
 
   def export
@@ -110,9 +114,8 @@ class Schedule
 end
 
 if __FILE__ == $0
-  url = 'http://espn.go.com/nfl/schedule/_/year/2013'
   schedule = Schedule.new
-  schedule.import_html(url)
+  schedule.import_html('http://espn.go.com/nfl/schedule/_/year/2014/seasontype/2/week/', 2014)
   puts schedule.export
 end
 
