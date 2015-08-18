@@ -8,38 +8,38 @@ class Schedule
 
   def initialize
     @teams = {
-        'NY Giants' => 'Giants',
-        'NY Jets' => 'Jets',
-        'Baltimore' => 'Ravens',
-        'Denver' => 'Broncos',
-        'New England' => 'Patriots',
-        'Buffalo' => 'Bills',
-        'Cincinnati' => 'Bengals',
-        'Chicago' => 'Bears',
-        'Miami' => 'Dolphins',
-        'Cleveland' => 'Browns',
-        'Atlanta' => 'Falcons',
-        'New Orleans' => 'Saints',
-        'Tampa Bay' => 'Buccaneers',
-        'Tennessee' => 'Titans',
-        'Pittsburgh' => 'Steelers',
-        'Minnesota' => 'Vikings',
-        'Detroit' => 'Lions',
-        'Oakland' => 'Raiders',
-        'Indianapolis' => 'Colts',
-        'Seattle' => 'Seahawks',
-        'Carolina' => 'Panthers',
-        'Kansas City' => 'Chiefs',
-        'Jacksonville' => 'Jaguars',
-        'Arizona' => 'Cardinals',
-        'St. Louis' => 'Rams',
-        'Green Bay' => 'Packers',
-        'San Francisco' => '49ers',
-        'Dallas' => 'Cowboys',
-        'Philadelphia' => 'Eagles',
-        'Washington' => 'Redskins',
-        'Houston' => 'Texans',
-        'San Diego' => 'Chargers'
+        'NYG' => 'Giants',
+        'NYJ' => 'Jets',
+        'BAL' => 'Ravens',
+        'DEN' => 'Broncos',
+        'NE' => 'Patriots',
+        'BUF' => 'Bills',
+        'CIN' => 'Bengals',
+        'CHI' => 'Bears',
+        'MIA' => 'Dolphins',
+        'CLE' => 'Browns',
+        'ATL' => 'Falcons',
+        'NO' => 'Saints',
+        'TB' => 'Buccaneers',
+        'TEN' => 'Titans',
+        'PIT' => 'Steelers',
+        'MIN' => 'Vikings',
+        'DET' => 'Lions',
+        'OAK' => 'Raiders',
+        'IND' => 'Colts',
+        'SEA' => 'Seahawks',
+        'CAR' => 'Panthers',
+        'KC' => 'Chiefs',
+        'JAX' => 'Jaguars',
+        'ARI' => 'Cardinals',
+        'STL' => 'Rams',
+        'GB' => 'Packers',
+        'SF' => '49ers',
+        'DAL' => 'Cowboys',
+        'PHI' => 'Eagles',
+        'WSH' => 'Redskins',
+        'HOU' => 'Texans',
+        'SD' => 'Chargers'
     }
 
     @misses = []
@@ -49,39 +49,24 @@ class Schedule
 
     @year = year
 
-    date = ''
-
     @weeks = (1..17).map do |week_id|
       page = Nokogiri::HTML(open(url + week_id.to_s))
 
-      table = page.search('//table[@class="tablehead"]').first
+      schedule_div = page.search('//div[@id="sched-container"]').first
 
-      games = table.search('tr').map do |row|
-        case row['class']
-          when 'colhead'
-            date = row.at('td[1]').text.strip
-            nil
-          when 'stathead'
-            nil
-          else
-            first_td = row.at('td[1]')
-            if first_td['colspan']
-              nil
-            else
-              guest, home = first_td.text.strip.split(/ at /)
+      games = schedule_div.search('table/tbody/tr').map do |row|
+        guest = row.at('td[1]/a/abbr').text.strip
+        home = row.at('td[2]/a/abbr').text.strip
+        guest = @teams.fetch(guest) { @misses << guest; guest }
+        home = @teams.fetch(home) { @misses << home; home }
 
-              guest = @teams.fetch(guest) { @misses << guest; guest }
-              home = @teams.fetch(home) { @misses << home; home }
+        starts = row.at('td[3]/@data-date')
 
-              starts = row.at('td[2]').text.strip
-
-              {
-                  :home => home,
-                  :guest => guest,
-                  :starts => convert_date(date, starts)
-              }
-            end
-        end
+        {
+            :home => home,
+            :guest => guest,
+            :starts => convert_date(starts)
+        }
       end
 
       {
@@ -93,16 +78,11 @@ class Schedule
 
   end
 
-  def convert_date(date, starts)
-    _, _, month, day = date.split(/[, ]/)
-
-    time = starts.gsub(/ ([A|P]M)/, ':00 \1')
-    "#{month.capitalize} #{day}, #{@year} #{time}"
+  def convert_date(date)
+    Time.strptime(date, '%FT%R%:z').getlocal.strftime('%b %-d, %Y %-I:%M:%S %p')
   end
 
   def export
-    puts @misses.uniq
-
     @season = {}
 
     @season[:year] = @year if @year
@@ -115,7 +95,7 @@ end
 
 if __FILE__ == $0
   schedule = Schedule.new
-  schedule.import_html('http://espn.go.com/nfl/schedule/_/year/2014/seasontype/2/week/', 2014)
+  schedule.import_html('http://espn.go.com/nfl/schedule/_/year/2015/seasontype/2/week/', 2015)
   puts schedule.export
 end
 
