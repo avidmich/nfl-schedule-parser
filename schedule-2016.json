@@ -1,0 +1,1367 @@
+{"year": 2016, "weeks": [
+    {
+        "position": 1,
+        "games": [
+            {
+                "home": "Broncos",
+                "guest": "Panthers",
+                "starts": "Sep 8, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Jaguars",
+                "guest": "Packers",
+                "starts": "Sep 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Ravens",
+                "guest": "Bills",
+                "starts": "Sep 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Texans",
+                "guest": "Bears",
+                "starts": "Sep 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Eagles",
+                "guest": "Browns",
+                "starts": "Sep 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Falcons",
+                "guest": "Buccaneers",
+                "starts": "Sep 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Titans",
+                "guest": "Vikings",
+                "starts": "Sep 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Jets",
+                "guest": "Bengals",
+                "starts": "Sep 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Saints",
+                "guest": "Raiders",
+                "starts": "Sep 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Chiefs",
+                "guest": "Chargers",
+                "starts": "Sep 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Seahawks",
+                "guest": "Dolphins",
+                "starts": "Sep 11, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Colts",
+                "guest": "Lions",
+                "starts": "Sep 11, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Cowboys",
+                "guest": "Giants",
+                "starts": "Sep 11, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Cardinals",
+                "guest": "Patriots",
+                "starts": "Sep 11, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Redskins",
+                "guest": "Steelers",
+                "starts": "Sep 12, 2016 7:10:00 PM"
+            },
+            {
+                "home": "49ers",
+                "guest": "LA",
+                "starts": "Sep 12, 2016 10:20:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 2,
+        "games": [
+            {
+                "home": "Bills",
+                "guest": "Jets",
+                "starts": "Sep 15, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Steelers",
+                "guest": "Bengals",
+                "starts": "Sep 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Lions",
+                "guest": "Titans",
+                "starts": "Sep 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Browns",
+                "guest": "Ravens",
+                "starts": "Sep 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Redskins",
+                "guest": "Cowboys",
+                "starts": "Sep 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Giants",
+                "guest": "Saints",
+                "starts": "Sep 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Panthers",
+                "guest": "49ers",
+                "starts": "Sep 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Patriots",
+                "guest": "Dolphins",
+                "starts": "Sep 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Texans",
+                "guest": "Chiefs",
+                "starts": "Sep 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "LA",
+                "guest": "Seahawks",
+                "starts": "Sep 18, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Cardinals",
+                "guest": "Buccaneers",
+                "starts": "Sep 18, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Chargers",
+                "guest": "Jaguars",
+                "starts": "Sep 18, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Raiders",
+                "guest": "Falcons",
+                "starts": "Sep 18, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Broncos",
+                "guest": "Colts",
+                "starts": "Sep 18, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Vikings",
+                "guest": "Packers",
+                "starts": "Sep 18, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Bears",
+                "guest": "Eagles",
+                "starts": "Sep 19, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 3,
+        "games": [
+            {
+                "home": "Patriots",
+                "guest": "Texans",
+                "starts": "Sep 22, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Bills",
+                "guest": "Cardinals",
+                "starts": "Sep 25, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Titans",
+                "guest": "Raiders",
+                "starts": "Sep 25, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Dolphins",
+                "guest": "Browns",
+                "starts": "Sep 25, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Jaguars",
+                "guest": "Ravens",
+                "starts": "Sep 25, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Packers",
+                "guest": "Lions",
+                "starts": "Sep 25, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Bengals",
+                "guest": "Broncos",
+                "starts": "Sep 25, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Panthers",
+                "guest": "Vikings",
+                "starts": "Sep 25, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Giants",
+                "guest": "Redskins",
+                "starts": "Sep 25, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Buccaneers",
+                "guest": "LA",
+                "starts": "Sep 25, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Seahawks",
+                "guest": "49ers",
+                "starts": "Sep 25, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Chiefs",
+                "guest": "Jets",
+                "starts": "Sep 25, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Colts",
+                "guest": "Chargers",
+                "starts": "Sep 25, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Eagles",
+                "guest": "Steelers",
+                "starts": "Sep 25, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Cowboys",
+                "guest": "Bears",
+                "starts": "Sep 25, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Saints",
+                "guest": "Falcons",
+                "starts": "Sep 26, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 4,
+        "games": [
+            {
+                "home": "Bengals",
+                "guest": "Dolphins",
+                "starts": "Sep 29, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Jaguars",
+                "guest": "Colts",
+                "starts": "Oct 2, 2016 9:30:00 AM"
+            },
+            {
+                "home": "Texans",
+                "guest": "Titans",
+                "starts": "Oct 2, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Redskins",
+                "guest": "Browns",
+                "starts": "Oct 2, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Jets",
+                "guest": "Seahawks",
+                "starts": "Oct 2, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Patriots",
+                "guest": "Bills",
+                "starts": "Oct 2, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Falcons",
+                "guest": "Panthers",
+                "starts": "Oct 2, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Ravens",
+                "guest": "Raiders",
+                "starts": "Oct 2, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Bears",
+                "guest": "Lions",
+                "starts": "Oct 2, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Buccaneers",
+                "guest": "Broncos",
+                "starts": "Oct 2, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Cardinals",
+                "guest": "LA",
+                "starts": "Oct 2, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Chargers",
+                "guest": "Saints",
+                "starts": "Oct 2, 2016 4:25:00 PM"
+            },
+            {
+                "home": "49ers",
+                "guest": "Cowboys",
+                "starts": "Oct 2, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Steelers",
+                "guest": "Chiefs",
+                "starts": "Oct 2, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Vikings",
+                "guest": "Giants",
+                "starts": "Oct 3, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 5,
+        "games": [
+            {
+                "home": "49ers",
+                "guest": "Cardinals",
+                "starts": "Oct 6, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Browns",
+                "guest": "Patriots",
+                "starts": "Oct 9, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Lions",
+                "guest": "Eagles",
+                "starts": "Oct 9, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Colts",
+                "guest": "Bears",
+                "starts": "Oct 9, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Dolphins",
+                "guest": "Titans",
+                "starts": "Oct 9, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Ravens",
+                "guest": "Redskins",
+                "starts": "Oct 9, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Vikings",
+                "guest": "Texans",
+                "starts": "Oct 9, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Steelers",
+                "guest": "Jets",
+                "starts": "Oct 9, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Broncos",
+                "guest": "Falcons",
+                "starts": "Oct 9, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Cowboys",
+                "guest": "Bengals",
+                "starts": "Oct 9, 2016 4:25:00 PM"
+            },
+            {
+                "home": "LA",
+                "guest": "Bills",
+                "starts": "Oct 9, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Raiders",
+                "guest": "Chargers",
+                "starts": "Oct 9, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Packers",
+                "guest": "Giants",
+                "starts": "Oct 9, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Panthers",
+                "guest": "Buccaneers",
+                "starts": "Oct 10, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 6,
+        "games": [
+            {
+                "home": "Chargers",
+                "guest": "Broncos",
+                "starts": "Oct 13, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Bills",
+                "guest": "49ers",
+                "starts": "Oct 16, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Redskins",
+                "guest": "Eagles",
+                "starts": "Oct 16, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Titans",
+                "guest": "Browns",
+                "starts": "Oct 16, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Giants",
+                "guest": "Ravens",
+                "starts": "Oct 16, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Saints",
+                "guest": "Panthers",
+                "starts": "Oct 16, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Bears",
+                "guest": "Jaguars",
+                "starts": "Oct 16, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Lions",
+                "guest": "LA",
+                "starts": "Oct 16, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Dolphins",
+                "guest": "Steelers",
+                "starts": "Oct 16, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Patriots",
+                "guest": "Bengals",
+                "starts": "Oct 16, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Raiders",
+                "guest": "Chiefs",
+                "starts": "Oct 16, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Seahawks",
+                "guest": "Falcons",
+                "starts": "Oct 16, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Packers",
+                "guest": "Cowboys",
+                "starts": "Oct 16, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Texans",
+                "guest": "Colts",
+                "starts": "Oct 16, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Cardinals",
+                "guest": "Jets",
+                "starts": "Oct 17, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 7,
+        "games": [
+            {
+                "home": "Packers",
+                "guest": "Bears",
+                "starts": "Oct 20, 2016 8:25:00 PM"
+            },
+            {
+                "home": "LA",
+                "guest": "Giants",
+                "starts": "Oct 23, 2016 9:30:00 AM"
+            },
+            {
+                "home": "Chiefs",
+                "guest": "Saints",
+                "starts": "Oct 23, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Titans",
+                "guest": "Colts",
+                "starts": "Oct 23, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Eagles",
+                "guest": "Vikings",
+                "starts": "Oct 23, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Bengals",
+                "guest": "Browns",
+                "starts": "Oct 23, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Lions",
+                "guest": "Redskins",
+                "starts": "Oct 23, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Jaguars",
+                "guest": "Raiders",
+                "starts": "Oct 23, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Dolphins",
+                "guest": "Bills",
+                "starts": "Oct 23, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Jets",
+                "guest": "Ravens",
+                "starts": "Oct 23, 2016 1:00:00 PM"
+            },
+            {
+                "home": "49ers",
+                "guest": "Buccaneers",
+                "starts": "Oct 23, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Falcons",
+                "guest": "Chargers",
+                "starts": "Oct 23, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Steelers",
+                "guest": "Patriots",
+                "starts": "Oct 23, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Cardinals",
+                "guest": "Seahawks",
+                "starts": "Oct 23, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Broncos",
+                "guest": "Texans",
+                "starts": "Oct 24, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 8,
+        "games": [
+            {
+                "home": "Titans",
+                "guest": "Jaguars",
+                "starts": "Oct 27, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Bengals",
+                "guest": "Redskins",
+                "starts": "Oct 30, 2016 9:30:00 AM"
+            },
+            {
+                "home": "Colts",
+                "guest": "Chiefs",
+                "starts": "Oct 30, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Buccaneers",
+                "guest": "Raiders",
+                "starts": "Oct 30, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Saints",
+                "guest": "Seahawks",
+                "starts": "Oct 30, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Texans",
+                "guest": "Lions",
+                "starts": "Oct 30, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Browns",
+                "guest": "Jets",
+                "starts": "Oct 30, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Falcons",
+                "guest": "Packers",
+                "starts": "Oct 30, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Bills",
+                "guest": "Patriots",
+                "starts": "Oct 30, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Broncos",
+                "guest": "Chargers",
+                "starts": "Oct 30, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Panthers",
+                "guest": "Cardinals",
+                "starts": "Oct 30, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Cowboys",
+                "guest": "Eagles",
+                "starts": "Oct 30, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Bears",
+                "guest": "Vikings",
+                "starts": "Oct 31, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 9,
+        "games": [
+            {
+                "home": "Buccaneers",
+                "guest": "Falcons",
+                "starts": "Nov 3, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Ravens",
+                "guest": "Steelers",
+                "starts": "Nov 6, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Browns",
+                "guest": "Cowboys",
+                "starts": "Nov 6, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Chiefs",
+                "guest": "Jaguars",
+                "starts": "Nov 6, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Dolphins",
+                "guest": "Jets",
+                "starts": "Nov 6, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Giants",
+                "guest": "Eagles",
+                "starts": "Nov 6, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Vikings",
+                "guest": "Lions",
+                "starts": "Nov 6, 2016 1:00:00 PM"
+            },
+            {
+                "home": "LA",
+                "guest": "Panthers",
+                "starts": "Nov 6, 2016 4:05:00 PM"
+            },
+            {
+                "home": "49ers",
+                "guest": "Saints",
+                "starts": "Nov 6, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Chargers",
+                "guest": "Titans",
+                "starts": "Nov 6, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Packers",
+                "guest": "Colts",
+                "starts": "Nov 6, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Raiders",
+                "guest": "Broncos",
+                "starts": "Nov 6, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Seahawks",
+                "guest": "Bills",
+                "starts": "Nov 7, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 10,
+        "games": [
+            {
+                "home": "Ravens",
+                "guest": "Browns",
+                "starts": "Nov 10, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Titans",
+                "guest": "Packers",
+                "starts": "Nov 13, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Redskins",
+                "guest": "Vikings",
+                "starts": "Nov 13, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Buccaneers",
+                "guest": "Bears",
+                "starts": "Nov 13, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Panthers",
+                "guest": "Chiefs",
+                "starts": "Nov 13, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Eagles",
+                "guest": "Falcons",
+                "starts": "Nov 13, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Jets",
+                "guest": "LA",
+                "starts": "Nov 13, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Saints",
+                "guest": "Broncos",
+                "starts": "Nov 13, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Jaguars",
+                "guest": "Texans",
+                "starts": "Nov 13, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Chargers",
+                "guest": "Dolphins",
+                "starts": "Nov 13, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Steelers",
+                "guest": "Cowboys",
+                "starts": "Nov 13, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Cardinals",
+                "guest": "49ers",
+                "starts": "Nov 13, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Patriots",
+                "guest": "Seahawks",
+                "starts": "Nov 13, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Giants",
+                "guest": "Bengals",
+                "starts": "Nov 14, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 11,
+        "games": [
+            {
+                "home": "Panthers",
+                "guest": "Saints",
+                "starts": "Nov 17, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Browns",
+                "guest": "Steelers",
+                "starts": "Nov 20, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Cowboys",
+                "guest": "Ravens",
+                "starts": "Nov 20, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Lions",
+                "guest": "Jaguars",
+                "starts": "Nov 20, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Colts",
+                "guest": "Titans",
+                "starts": "Nov 20, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Bengals",
+                "guest": "Bills",
+                "starts": "Nov 20, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Chiefs",
+                "guest": "Buccaneers",
+                "starts": "Nov 20, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Giants",
+                "guest": "Bears",
+                "starts": "Nov 20, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Vikings",
+                "guest": "Cardinals",
+                "starts": "Nov 20, 2016 1:00:00 PM"
+            },
+            {
+                "home": "LA",
+                "guest": "Dolphins",
+                "starts": "Nov 20, 2016 4:05:00 PM"
+            },
+            {
+                "home": "49ers",
+                "guest": "Patriots",
+                "starts": "Nov 20, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Seahawks",
+                "guest": "Eagles",
+                "starts": "Nov 20, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Redskins",
+                "guest": "Packers",
+                "starts": "Nov 20, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Raiders",
+                "guest": "Texans",
+                "starts": "Nov 21, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 12,
+        "games": [
+            {
+                "home": "Lions",
+                "guest": "Vikings",
+                "starts": "Nov 24, 2016 12:30:00 PM"
+            },
+            {
+                "home": "Cowboys",
+                "guest": "Redskins",
+                "starts": "Nov 24, 2016 4:30:00 PM"
+            },
+            {
+                "home": "Colts",
+                "guest": "Steelers",
+                "starts": "Nov 24, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Bears",
+                "guest": "Titans",
+                "starts": "Nov 27, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Bills",
+                "guest": "Jaguars",
+                "starts": "Nov 27, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Ravens",
+                "guest": "Bengals",
+                "starts": "Nov 27, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Falcons",
+                "guest": "Cardinals",
+                "starts": "Nov 27, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Browns",
+                "guest": "Giants",
+                "starts": "Nov 27, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Saints",
+                "guest": "LA",
+                "starts": "Nov 27, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Dolphins",
+                "guest": "49ers",
+                "starts": "Nov 27, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Texans",
+                "guest": "Chargers",
+                "starts": "Nov 27, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Buccaneers",
+                "guest": "Seahawks",
+                "starts": "Nov 27, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Raiders",
+                "guest": "Panthers",
+                "starts": "Nov 27, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Broncos",
+                "guest": "Chiefs",
+                "starts": "Nov 27, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Jets",
+                "guest": "Patriots",
+                "starts": "Nov 27, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Eagles",
+                "guest": "Packers",
+                "starts": "Nov 28, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 13,
+        "games": [
+            {
+                "home": "Vikings",
+                "guest": "Cowboys",
+                "starts": "Dec 1, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Falcons",
+                "guest": "Chiefs",
+                "starts": "Dec 4, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Saints",
+                "guest": "Lions",
+                "starts": "Dec 4, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Patriots",
+                "guest": "LA",
+                "starts": "Dec 4, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Jaguars",
+                "guest": "Broncos",
+                "starts": "Dec 4, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Packers",
+                "guest": "Texans",
+                "starts": "Dec 4, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Bengals",
+                "guest": "Eagles",
+                "starts": "Dec 4, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Ravens",
+                "guest": "Dolphins",
+                "starts": "Dec 4, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Bears",
+                "guest": "49ers",
+                "starts": "Dec 4, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Raiders",
+                "guest": "Bills",
+                "starts": "Dec 4, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Steelers",
+                "guest": "Giants",
+                "starts": "Dec 4, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Cardinals",
+                "guest": "Redskins",
+                "starts": "Dec 4, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Chargers",
+                "guest": "Buccaneers",
+                "starts": "Dec 4, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Seahawks",
+                "guest": "Panthers",
+                "starts": "Dec 4, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Jets",
+                "guest": "Colts",
+                "starts": "Dec 5, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 14,
+        "games": [
+            {
+                "home": "Chiefs",
+                "guest": "Raiders",
+                "starts": "Dec 8, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Bills",
+                "guest": "Steelers",
+                "starts": "Dec 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Titans",
+                "guest": "Broncos",
+                "starts": "Dec 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Buccaneers",
+                "guest": "Saints",
+                "starts": "Dec 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Eagles",
+                "guest": "Redskins",
+                "starts": "Dec 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Dolphins",
+                "guest": "Cardinals",
+                "starts": "Dec 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Panthers",
+                "guest": "Chargers",
+                "starts": "Dec 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Browns",
+                "guest": "Bengals",
+                "starts": "Dec 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Lions",
+                "guest": "Bears",
+                "starts": "Dec 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Colts",
+                "guest": "Texans",
+                "starts": "Dec 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Jaguars",
+                "guest": "Vikings",
+                "starts": "Dec 11, 2016 1:00:00 PM"
+            },
+            {
+                "home": "49ers",
+                "guest": "Jets",
+                "starts": "Dec 11, 2016 4:05:00 PM"
+            },
+            {
+                "home": "LA",
+                "guest": "Falcons",
+                "starts": "Dec 11, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Packers",
+                "guest": "Seahawks",
+                "starts": "Dec 11, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Giants",
+                "guest": "Cowboys",
+                "starts": "Dec 11, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Patriots",
+                "guest": "Ravens",
+                "starts": "Dec 12, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 15,
+        "games": [
+            {
+                "home": "Seahawks",
+                "guest": "LA",
+                "starts": "Dec 15, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Jets",
+                "guest": "Dolphins",
+                "starts": "Dec 17, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Bears",
+                "guest": "Packers",
+                "starts": "Dec 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Cowboys",
+                "guest": "Buccaneers",
+                "starts": "Dec 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Texans",
+                "guest": "Jaguars",
+                "starts": "Dec 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Bills",
+                "guest": "Browns",
+                "starts": "Dec 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Ravens",
+                "guest": "Eagles",
+                "starts": "Dec 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Chiefs",
+                "guest": "Titans",
+                "starts": "Dec 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Giants",
+                "guest": "Lions",
+                "starts": "Dec 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Vikings",
+                "guest": "Colts",
+                "starts": "Dec 18, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Cardinals",
+                "guest": "Saints",
+                "starts": "Dec 18, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Falcons",
+                "guest": "49ers",
+                "starts": "Dec 18, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Broncos",
+                "guest": "Patriots",
+                "starts": "Dec 18, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Chargers",
+                "guest": "Raiders",
+                "starts": "Dec 18, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Bengals",
+                "guest": "Steelers",
+                "starts": "Dec 18, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Redskins",
+                "guest": "Panthers",
+                "starts": "Dec 19, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 16,
+        "games": [
+            {
+                "home": "Eagles",
+                "guest": "Giants",
+                "starts": "Dec 22, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Bills",
+                "guest": "Dolphins",
+                "starts": "Dec 24, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Saints",
+                "guest": "Buccaneers",
+                "starts": "Dec 24, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Patriots",
+                "guest": "Jets",
+                "starts": "Dec 24, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Jaguars",
+                "guest": "Titans",
+                "starts": "Dec 24, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Packers",
+                "guest": "Vikings",
+                "starts": "Dec 24, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Browns",
+                "guest": "Chargers",
+                "starts": "Dec 24, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Bears",
+                "guest": "Redskins",
+                "starts": "Dec 24, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Panthers",
+                "guest": "Falcons",
+                "starts": "Dec 24, 2016 1:00:00 PM"
+            },
+            {
+                "home": "Raiders",
+                "guest": "Colts",
+                "starts": "Dec 24, 2016 4:05:00 PM"
+            },
+            {
+                "home": "Seahawks",
+                "guest": "Cardinals",
+                "starts": "Dec 24, 2016 4:25:00 PM"
+            },
+            {
+                "home": "LA",
+                "guest": "49ers",
+                "starts": "Dec 24, 2016 4:25:00 PM"
+            },
+            {
+                "home": "Texans",
+                "guest": "Bengals",
+                "starts": "Dec 24, 2016 8:25:00 PM"
+            },
+            {
+                "home": "Steelers",
+                "guest": "Ravens",
+                "starts": "Dec 25, 2016 4:30:00 PM"
+            },
+            {
+                "home": "Chiefs",
+                "guest": "Broncos",
+                "starts": "Dec 25, 2016 8:30:00 PM"
+            },
+            {
+                "home": "Cowboys",
+                "guest": "Lions",
+                "starts": "Dec 26, 2016 8:30:00 PM"
+            }
+        ]
+    },
+    {
+        "position": 17,
+        "games": [
+            {
+                "home": "Falcons",
+                "guest": "Saints",
+                "starts": "Jan 1, 2017 1:00:00 PM"
+            },
+            {
+                "home": "Bengals",
+                "guest": "Ravens",
+                "starts": "Jan 1, 2017 1:00:00 PM"
+            },
+            {
+                "home": "Redskins",
+                "guest": "Giants",
+                "starts": "Jan 1, 2017 1:00:00 PM"
+            },
+            {
+                "home": "Titans",
+                "guest": "Texans",
+                "starts": "Jan 1, 2017 1:00:00 PM"
+            },
+            {
+                "home": "Buccaneers",
+                "guest": "Panthers",
+                "starts": "Jan 1, 2017 1:00:00 PM"
+            },
+            {
+                "home": "Lions",
+                "guest": "Packers",
+                "starts": "Jan 1, 2017 1:00:00 PM"
+            },
+            {
+                "home": "Colts",
+                "guest": "Jaguars",
+                "starts": "Jan 1, 2017 1:00:00 PM"
+            },
+            {
+                "home": "Dolphins",
+                "guest": "Patriots",
+                "starts": "Jan 1, 2017 1:00:00 PM"
+            },
+            {
+                "home": "Vikings",
+                "guest": "Bears",
+                "starts": "Jan 1, 2017 1:00:00 PM"
+            },
+            {
+                "home": "Jets",
+                "guest": "Bills",
+                "starts": "Jan 1, 2017 1:00:00 PM"
+            },
+            {
+                "home": "Eagles",
+                "guest": "Cowboys",
+                "starts": "Jan 1, 2017 1:00:00 PM"
+            },
+            {
+                "home": "Steelers",
+                "guest": "Browns",
+                "starts": "Jan 1, 2017 1:00:00 PM"
+            },
+            {
+                "home": "LA",
+                "guest": "Cardinals",
+                "starts": "Jan 1, 2017 4:25:00 PM"
+            },
+            {
+                "home": "Broncos",
+                "guest": "Raiders",
+                "starts": "Jan 1, 2017 4:25:00 PM"
+            },
+            {
+                "home": "Chargers",
+                "guest": "Chiefs",
+                "starts": "Jan 1, 2017 4:25:00 PM"
+            },
+            {
+                "home": "49ers",
+                "guest": "Seahawks",
+                "starts": "Jan 1, 2017 4:25:00 PM"
+            }
+        ]
+    }
+]}

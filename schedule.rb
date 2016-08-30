@@ -95,7 +95,7 @@ end
 
 if __FILE__ == $0
   schedule = Schedule.new
-  schedule.import_html('http://espn.go.com/nfl/schedule/_/year/2015/seasontype/2/week/', 2015)
+  schedule.import_html('http://espn.go.com/nfl/schedule/_/year/2016/seasontype/2/week/', 2016)
   puts schedule.export
 end
 
