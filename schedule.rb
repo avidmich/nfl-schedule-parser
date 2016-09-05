@@ -32,7 +32,8 @@ class Schedule
         'KC' => 'Chiefs',
         'JAX' => 'Jaguars',
         'ARI' => 'Cardinals',
-        'STL' => 'Rams',
+        'LA' => 'Rams', # starting 2016
+        'STL' => 'Rams', # old
         'GB' => 'Packers',
         'SF' => '49ers',
         'DAL' => 'Cowboys',
