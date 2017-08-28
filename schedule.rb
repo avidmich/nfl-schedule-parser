@@ -32,8 +32,7 @@ class Schedule
         'KC' => 'Chiefs',
         'JAX' => 'Jaguars',
         'ARI' => 'Cardinals',
-        'LA' => 'Rams', # starting 2016
-        'STL' => 'Rams', # old
+        'LA' => 'Rams',
         'GB' => 'Packers',
         'SF' => '49ers',
         'DAL' => 'Cowboys',
@@ -56,8 +55,8 @@ class Schedule
       schedule_div = page.search('//div[@id="sched-container"]').first
 
       games = schedule_div.search('table/tbody/tr').map do |row|
-        guest = row.at('td[1]/a/abbr').text.strip
-        home = row.at('td[2]/a/abbr').text.strip
+        guest = team_name(row, 1)
+        home = team_name(row, 2)
         guest = @teams.fetch(guest) { @misses << guest; guest }
         home = @teams.fetch(home) { @misses << home; home }
 
@@ -92,11 +91,18 @@ class Schedule
     JSON.generate(@season)
   end
 
+  private
+
+  def team_name(row, index)
+    node = row.at("td[#{index}]//a/abbr")
+    node.text.strip
+  end
+
 end
 
 if __FILE__ == $0
   schedule = Schedule.new
-  schedule.import_html('http://espn.go.com/nfl/schedule/_/year/2016/seasontype/2/week/', 2016)
+  schedule.import_html('http://www.espn.com/nfl/schedule/_/seasontype/2/week/', 2017)
   puts schedule.export
 end
 
