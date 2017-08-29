@@ -53,7 +53,7 @@
                 "starts": "Sep 10, 2017 1:00:00 PM"
             },
             {
-                "home": "LAR",
+                "home": "Rams",
                 "guest": "Colts",
                 "starts": "Sep 10, 2017 4:05:00 PM"
             },
@@ -79,7 +79,7 @@
             },
             {
                 "home": "Broncos",
-                "guest": "LAC",
+                "guest": "Chargers",
                 "starts": "Sep 11, 2017 10:20:00 PM"
             }
         ]
@@ -133,7 +133,7 @@
                 "starts": "Sep 17, 2017 1:00:00 PM"
             },
             {
-                "home": "LAC",
+                "home": "Chargers",
                 "guest": "Dolphins",
                 "starts": "Sep 17, 2017 4:05:00 PM"
             },
@@ -148,7 +148,7 @@
                 "starts": "Sep 17, 2017 4:25:00 PM"
             },
             {
-                "home": "LAR",
+                "home": "Rams",
                 "guest": "Redskins",
                 "starts": "Sep 17, 2017 4:25:00 PM"
             },
@@ -174,7 +174,7 @@
         "games": [
             {
                 "home": "49ers",
-                "guest": "LAR",
+                "guest": "Rams",
                 "starts": "Sep 21, 2017 8:25:00 PM"
             },
             {
@@ -238,7 +238,7 @@
                 "starts": "Sep 24, 2017 4:25:00 PM"
             },
             {
-                "home": "LAC",
+                "home": "Chargers",
                 "guest": "Chiefs",
                 "starts": "Sep 24, 2017 4:25:00 PM"
             },
@@ -284,7 +284,7 @@
             },
             {
                 "home": "Cowboys",
-                "guest": "LAR",
+                "guest": "Rams",
                 "starts": "Oct 1, 2017 1:00:00 PM"
             },
             {
@@ -313,7 +313,7 @@
                 "starts": "Oct 1, 2017 4:05:00 PM"
             },
             {
-                "home": "LAC",
+                "home": "Chargers",
                 "guest": "Eagles",
                 "starts": "Oct 1, 2017 4:05:00 PM"
             },
@@ -374,7 +374,7 @@
             },
             {
                 "home": "Giants",
-                "guest": "LAC",
+                "guest": "Chargers",
                 "starts": "Oct 8, 2017 1:00:00 PM"
             },
             {
@@ -388,7 +388,7 @@
                 "starts": "Oct 8, 2017 1:00:00 PM"
             },
             {
-                "home": "LAR",
+                "home": "Rams",
                 "guest": "Seahawks",
                 "starts": "Oct 8, 2017 4:05:00 PM"
             },
@@ -464,7 +464,7 @@
             },
             {
                 "home": "Jaguars",
-                "guest": "LAR",
+                "guest": "Rams",
                 "starts": "Oct 15, 2017 4:05:00 PM"
             },
             {
@@ -474,7 +474,7 @@
             },
             {
                 "home": "Raiders",
-                "guest": "LAC",
+                "guest": "Chargers",
                 "starts": "Oct 15, 2017 4:25:00 PM"
             },
             {
@@ -523,7 +523,7 @@
                 "starts": "Oct 22, 2017 1:00:00 PM"
             },
             {
-                "home": "LAR",
+                "home": "Rams",
                 "guest": "Cardinals",
                 "starts": "Oct 22, 2017 1:00:00 PM"
             },
@@ -548,7 +548,7 @@
                 "starts": "Oct 22, 2017 4:05:00 PM"
             },
             {
-                "home": "LAC",
+                "home": "Chargers",
                 "guest": "Broncos",
                 "starts": "Oct 22, 2017 4:25:00 PM"
             },
@@ -594,7 +594,7 @@
             },
             {
                 "home": "Patriots",
-                "guest": "LAC",
+                "guest": "Chargers",
                 "starts": "Oct 29, 2017 1:00:00 PM"
             },
             {
@@ -669,7 +669,7 @@
             },
             {
                 "home": "Giants",
-                "guest": "LAR",
+                "guest": "Rams",
                 "starts": "Nov 5, 2017 1:00:00 PM"
             },
             {
@@ -739,7 +739,7 @@
             },
             {
                 "home": "Jaguars",
-                "guest": "LAC",
+                "guest": "Chargers",
                 "starts": "Nov 12, 2017 1:00:00 PM"
             },
             {
@@ -758,7 +758,7 @@
                 "starts": "Nov 12, 2017 1:00:00 PM"
             },
             {
-                "home": "LAR",
+                "home": "Rams",
                 "guest": "Texans",
                 "starts": "Nov 12, 2017 4:05:00 PM"
             },
@@ -814,7 +814,7 @@
             },
             {
                 "home": "Vikings",
-                "guest": "LAR",
+                "guest": "Rams",
                 "starts": "Nov 19, 2017 1:00:00 PM"
             },
             {
@@ -828,7 +828,7 @@
                 "starts": "Nov 19, 2017 1:00:00 PM"
             },
             {
-                "home": "LAC",
+                "home": "Chargers",
                 "guest": "Bills",
                 "starts": "Nov 19, 2017 4:05:00 PM"
             },
@@ -864,7 +864,7 @@
             },
             {
                 "home": "Cowboys",
-                "guest": "LAC",
+                "guest": "Chargers",
                 "starts": "Nov 23, 2017 4:30:00 PM"
             },
             {
@@ -908,7 +908,7 @@
                 "starts": "Nov 26, 2017 1:00:00 PM"
             },
             {
-                "home": "LAR",
+                "home": "Rams",
                 "guest": "Saints",
                 "starts": "Nov 26, 2017 4:05:00 PM"
             },
@@ -998,13 +998,13 @@
                 "starts": "Dec 3, 2017 1:00:00 PM"
             },
             {
-                "home": "LAC",
+                "home": "Chargers",
                 "guest": "Browns",
                 "starts": "Dec 3, 2017 4:05:00 PM"
             },
             {
                 "home": "Cardinals",
-                "guest": "LAR",
+                "guest": "Rams",
                 "starts": "Dec 3, 2017 4:25:00 PM"
             },
             {
@@ -1083,12 +1083,12 @@
                 "starts": "Dec 10, 2017 4:05:00 PM"
             },
             {
-                "home": "LAC",
+                "home": "Chargers",
                 "guest": "Redskins",
                 "starts": "Dec 10, 2017 4:05:00 PM"
             },
             {
-                "home": "LAR",
+                "home": "Rams",
                 "guest": "Eagles",
                 "starts": "Dec 10, 2017 4:25:00 PM"
             },
@@ -1124,7 +1124,7 @@
             },
             {
                 "home": "Chiefs",
-                "guest": "LAC",
+                "guest": "Chargers",
                 "starts": "Dec 16, 2017 8:25:00 PM"
             },
             {
@@ -1169,7 +1169,7 @@
             },
             {
                 "home": "Seahawks",
-                "guest": "LAR",
+                "guest": "Rams",
                 "starts": "Dec 17, 2017 4:05:00 PM"
             },
             {
@@ -1239,12 +1239,12 @@
             },
             {
                 "home": "Jets",
-                "guest": "LAC",
+                "guest": "Chargers",
                 "starts": "Dec 24, 2017 1:00:00 PM"
             },
             {
                 "home": "Titans",
-                "guest": "LAR",
+                "guest": "Rams",
                 "starts": "Dec 24, 2017 1:00:00 PM"
             },
             {
@@ -1348,12 +1348,12 @@
                 "starts": "Dec 31, 2017 4:25:00 PM"
             },
             {
-                "home": "LAC",
+                "home": "Chargers",
                 "guest": "Raiders",
                 "starts": "Dec 31, 2017 4:25:00 PM"
             },
             {
-                "home": "LAR",
+                "home": "Rams",
                 "guest": "49ers",
                 "starts": "Dec 31, 2017 4:25:00 PM"
             },

@@ -32,14 +32,14 @@ class Schedule
         'KC' => 'Chiefs',
         'JAX' => 'Jaguars',
         'ARI' => 'Cardinals',
-        'LA' => 'Rams',
+        'LAR' => 'Rams',
         'GB' => 'Packers',
         'SF' => '49ers',
         'DAL' => 'Cowboys',
         'PHI' => 'Eagles',
         'WSH' => 'Redskins',
         'HOU' => 'Texans',
-        'SD' => 'Chargers'
+        'LAC' => 'Chargers'
     }
 
     @misses = []
