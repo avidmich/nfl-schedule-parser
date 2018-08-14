@@ -1,6 +1,7 @@
 require 'json'
 require 'nokogiri'
 require 'open-uri'
+require 'tzinfo'
 
 class Schedule
 
@@ -43,6 +44,8 @@ class Schedule
     }
 
     @misses = []
+    
+    @timezone = TZInfo::Timezone.get('America/New_York')
   end
 
   def import_html(url, year)
@@ -79,16 +82,20 @@ class Schedule
   end
 
   def convert_date(date)
-    Time.strptime(date, '%FT%R%:z').getlocal.strftime('%b %-d, %Y %-I:%M:%S %p')
+    @timezone.utc_to_local(Time.strptime(date, '%FT%R%:z')).strftime('%b %-d, %Y %-I:%M:%S %p')
   end
 
-  def export
+  def export(pretty = true)
     @season = {}
 
     @season[:year] = @year if @year
     @season[:weeks] = @weeks if @weeks
 
-    JSON.generate(@season)
+    if pretty 
+      JSON.pretty_generate(@season)
+    else
+      JSON.generate(@season)
+    end
   end
 
   private
@@ -102,7 +109,7 @@ end
 
 if __FILE__ == $0
   schedule = Schedule.new
-  schedule.import_html('http://www.espn.com/nfl/schedule/_/seasontype/2/week/', 2017)
+  schedule.import_html('http://www.espn.com/nfl/schedule/_/seasontype/2/week/', 2018)
   puts schedule.export
 end
 

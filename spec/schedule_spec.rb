@@ -5,7 +5,7 @@ describe Schedule do
     schedule = Schedule.new
 
     it 'export returns empty json' do
-      schedule.export.should == '{}'
+      expect(schedule.export(false)).to eq('{}')
     end
   end
 
@@ -32,7 +32,7 @@ describe Schedule do
     ]
 
     it 'export returns json with one week data in it' do
-      schedule.export.should == '{"year":2014,"weeks":[{"position":1,"games":[{"home":"home1","guest":"guest1","starts":"Aug 17, 2013 1:16:05 PM"},{"home":"home2","guest":"guest2","starts":"Aug 17, 2013 2:16:05 PM"}]}]}'
+      expect(schedule.export(false)).to eq('{"year":2014,"weeks":[{"position":1,"games":[{"home":"home1","guest":"guest1","starts":"Aug 17, 2013 1:16:05 PM"},{"home":"home2","guest":"guest2","starts":"Aug 17, 2013 2:16:05 PM"}]}]}')
     end
 
   end
@@ -40,8 +40,15 @@ describe Schedule do
   context 'date conversion' do
     schedule = Schedule.new
 
-    it 'must produce correctly formatted date' do
-      schedule.convert_date('2015-09-11T00:30Z').should == 'Sep 10, 2015 8:30:00 PM'
+    # first sunday in November is when EDT(-4) switched into EST(-5)
+    # https://en.wikipedia.org/wiki/Eastern_Time_Zone
+
+    it 'must correctly format EDT' do
+      expect(schedule.convert_date('2018-09-09T17:00Z')).to eq('Sep 9, 2018 1:00:00 PM')
+    end
+
+    it 'must correctly format EST' do
+      expect(schedule.convert_date('2018-11-29T17:00Z')).to eq('Nov 29, 2018 12:00:00 PM')
     end
   end
 end
