@@ -65,6 +65,10 @@ class Schedule
 
         starts = row.at('td[3]/@data-date')
 
+        unless starts
+          puts "NOTE: no time for #{guest} @ #{home} during week #{week_id}"  
+        end
+
         {
             :home => home,
             :guest => guest,
@@ -82,7 +86,9 @@ class Schedule
   end
 
   def convert_date(date)
-    @timezone.utc_to_local(Time.strptime(date, '%FT%R%:z')).strftime('%b %-d, %Y %-I:%M:%S %p')
+    if date
+      @timezone.utc_to_local(Time.strptime(date, '%FT%R%:z')).strftime('%b %-d, %Y %-I:%M:%S %p')
+    end
   end
 
   def export(pretty = true)
@@ -109,7 +115,7 @@ end
 
 if __FILE__ == $0
   schedule = Schedule.new
-  schedule.import_html('http://www.espn.com/nfl/schedule/_/seasontype/2/week/', 2018)
+  schedule.import_html('http://www.espn.com/nfl/schedule/_/seasontype/2/week/', 2019)
   puts schedule.export
 end
 

@@ -1,0 +1,1370 @@
+{
+  "year": 2019,
+  "weeks": [
+    {
+      "position": 1,
+      "games": [
+        {
+          "home": "Bears",
+          "guest": "Packers",
+          "starts": "Sep 5, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Browns",
+          "guest": "Titans",
+          "starts": "Sep 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Dolphins",
+          "guest": "Ravens",
+          "starts": "Sep 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Vikings",
+          "guest": "Falcons",
+          "starts": "Sep 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Jets",
+          "guest": "Bills",
+          "starts": "Sep 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Eagles",
+          "guest": "Redskins",
+          "starts": "Sep 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Panthers",
+          "guest": "Rams",
+          "starts": "Sep 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Jaguars",
+          "guest": "Chiefs",
+          "starts": "Sep 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Chargers",
+          "guest": "Colts",
+          "starts": "Sep 8, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Seahawks",
+          "guest": "Bengals",
+          "starts": "Sep 8, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Cowboys",
+          "guest": "Giants",
+          "starts": "Sep 8, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Cardinals",
+          "guest": "Lions",
+          "starts": "Sep 8, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Buccaneers",
+          "guest": "49ers",
+          "starts": "Sep 8, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Patriots",
+          "guest": "Steelers",
+          "starts": "Sep 8, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Saints",
+          "guest": "Texans",
+          "starts": "Sep 9, 2019 7:10:00 PM"
+        },
+        {
+          "home": "Raiders",
+          "guest": "Broncos",
+          "starts": "Sep 9, 2019 10:20:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "games": [
+        {
+          "home": "Panthers",
+          "guest": "Buccaneers",
+          "starts": "Sep 12, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Bengals",
+          "guest": "49ers",
+          "starts": "Sep 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Lions",
+          "guest": "Chargers",
+          "starts": "Sep 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Packers",
+          "guest": "Vikings",
+          "starts": "Sep 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Titans",
+          "guest": "Colts",
+          "starts": "Sep 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Dolphins",
+          "guest": "Patriots",
+          "starts": "Sep 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Giants",
+          "guest": "Bills",
+          "starts": "Sep 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Steelers",
+          "guest": "Seahawks",
+          "starts": "Sep 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Redskins",
+          "guest": "Cowboys",
+          "starts": "Sep 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Ravens",
+          "guest": "Cardinals",
+          "starts": "Sep 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Texans",
+          "guest": "Jaguars",
+          "starts": "Sep 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Raiders",
+          "guest": "Chiefs",
+          "starts": "Sep 15, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Broncos",
+          "guest": "Bears",
+          "starts": "Sep 15, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Rams",
+          "guest": "Saints",
+          "starts": "Sep 15, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Falcons",
+          "guest": "Eagles",
+          "starts": "Sep 15, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Jets",
+          "guest": "Browns",
+          "starts": "Sep 16, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "games": [
+        {
+          "home": "Jaguars",
+          "guest": "Titans",
+          "starts": "Sep 19, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Bills",
+          "guest": "Bengals",
+          "starts": "Sep 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Cowboys",
+          "guest": "Dolphins",
+          "starts": "Sep 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Packers",
+          "guest": "Broncos",
+          "starts": "Sep 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Colts",
+          "guest": "Falcons",
+          "starts": "Sep 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Chiefs",
+          "guest": "Ravens",
+          "starts": "Sep 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Vikings",
+          "guest": "Raiders",
+          "starts": "Sep 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Patriots",
+          "guest": "Jets",
+          "starts": "Sep 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Eagles",
+          "guest": "Lions",
+          "starts": "Sep 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Cardinals",
+          "guest": "Panthers",
+          "starts": "Sep 22, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Buccaneers",
+          "guest": "Giants",
+          "starts": "Sep 22, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Chargers",
+          "guest": "Texans",
+          "starts": "Sep 22, 2019 4:25:00 PM"
+        },
+        {
+          "home": "49ers",
+          "guest": "Steelers",
+          "starts": "Sep 22, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Seahawks",
+          "guest": "Saints",
+          "starts": "Sep 22, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Browns",
+          "guest": "Rams",
+          "starts": "Sep 22, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Redskins",
+          "guest": "Bears",
+          "starts": "Sep 23, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "games": [
+        {
+          "home": "Packers",
+          "guest": "Eagles",
+          "starts": "Sep 26, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Falcons",
+          "guest": "Titans",
+          "starts": "Sep 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Bills",
+          "guest": "Patriots",
+          "starts": "Sep 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Lions",
+          "guest": "Chiefs",
+          "starts": "Sep 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Colts",
+          "guest": "Raiders",
+          "starts": "Sep 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Dolphins",
+          "guest": "Chargers",
+          "starts": "Sep 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Giants",
+          "guest": "Redskins",
+          "starts": "Sep 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Ravens",
+          "guest": "Browns",
+          "starts": "Sep 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Texans",
+          "guest": "Panthers",
+          "starts": "Sep 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Rams",
+          "guest": "Buccaneers",
+          "starts": "Sep 29, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Cardinals",
+          "guest": "Seahawks",
+          "starts": "Sep 29, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Bears",
+          "guest": "Vikings",
+          "starts": "Sep 29, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Broncos",
+          "guest": "Jaguars",
+          "starts": "Sep 29, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Saints",
+          "guest": "Cowboys",
+          "starts": "Sep 29, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Steelers",
+          "guest": "Bengals",
+          "starts": "Sep 30, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "games": [
+        {
+          "home": "Seahawks",
+          "guest": "Rams",
+          "starts": "Oct 3, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Bengals",
+          "guest": "Cardinals",
+          "starts": "Oct 6, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Titans",
+          "guest": "Bills",
+          "starts": "Oct 6, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Raiders",
+          "guest": "Bears",
+          "starts": "Oct 6, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Saints",
+          "guest": "Buccaneers",
+          "starts": "Oct 6, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Giants",
+          "guest": "Vikings",
+          "starts": "Oct 6, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Eagles",
+          "guest": "Jets",
+          "starts": "Oct 6, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Steelers",
+          "guest": "Ravens",
+          "starts": "Oct 6, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Redskins",
+          "guest": "Patriots",
+          "starts": "Oct 6, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Panthers",
+          "guest": "Jaguars",
+          "starts": "Oct 6, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Texans",
+          "guest": "Falcons",
+          "starts": "Oct 6, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Chargers",
+          "guest": "Broncos",
+          "starts": "Oct 6, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Cowboys",
+          "guest": "Packers",
+          "starts": "Oct 6, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Chiefs",
+          "guest": "Colts",
+          "starts": "Oct 6, 2019 8:20:00 PM"
+        },
+        {
+          "home": "49ers",
+          "guest": "Browns",
+          "starts": "Oct 7, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "games": [
+        {
+          "home": "Patriots",
+          "guest": "Giants",
+          "starts": "Oct 10, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Buccaneers",
+          "guest": "Panthers",
+          "starts": "Oct 13, 2019 9:30:00 AM"
+        },
+        {
+          "home": "Browns",
+          "guest": "Seahawks",
+          "starts": "Oct 13, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Chiefs",
+          "guest": "Texans",
+          "starts": "Oct 13, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Dolphins",
+          "guest": "Redskins",
+          "starts": "Oct 13, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Vikings",
+          "guest": "Eagles",
+          "starts": "Oct 13, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Jaguars",
+          "guest": "Saints",
+          "starts": "Oct 13, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Ravens",
+          "guest": "Bengals",
+          "starts": "Oct 13, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Rams",
+          "guest": "49ers",
+          "starts": "Oct 13, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Cardinals",
+          "guest": "Falcons",
+          "starts": "Oct 13, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Broncos",
+          "guest": "Titans",
+          "starts": "Oct 13, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Jets",
+          "guest": "Cowboys",
+          "starts": "Oct 13, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Chargers",
+          "guest": "Steelers",
+          "starts": "Oct 13, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Packers",
+          "guest": "Lions",
+          "starts": "Oct 14, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "games": [
+        {
+          "home": "Broncos",
+          "guest": "Chiefs",
+          "starts": "Oct 17, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Falcons",
+          "guest": "Rams",
+          "starts": "Oct 20, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Bills",
+          "guest": "Dolphins",
+          "starts": "Oct 20, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Bengals",
+          "guest": "Jaguars",
+          "starts": "Oct 20, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Lions",
+          "guest": "Vikings",
+          "starts": "Oct 20, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Packers",
+          "guest": "Raiders",
+          "starts": "Oct 20, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Colts",
+          "guest": "Texans",
+          "starts": "Oct 20, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Giants",
+          "guest": "Cardinals",
+          "starts": "Oct 20, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Redskins",
+          "guest": "49ers",
+          "starts": "Oct 20, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Titans",
+          "guest": "Chargers",
+          "starts": "Oct 20, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Bears",
+          "guest": "Saints",
+          "starts": "Oct 20, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Seahawks",
+          "guest": "Ravens",
+          "starts": "Oct 20, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Cowboys",
+          "guest": "Eagles",
+          "starts": "Oct 20, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Jets",
+          "guest": "Patriots",
+          "starts": "Oct 21, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 8,
+      "games": [
+        {
+          "home": "Vikings",
+          "guest": "Redskins",
+          "starts": "Oct 24, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Falcons",
+          "guest": "Seahawks",
+          "starts": "Oct 27, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Bills",
+          "guest": "Eagles",
+          "starts": "Oct 27, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Bears",
+          "guest": "Chargers",
+          "starts": "Oct 27, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Lions",
+          "guest": "Giants",
+          "starts": "Oct 27, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Titans",
+          "guest": "Buccaneers",
+          "starts": "Oct 27, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Rams",
+          "guest": "Bengals",
+          "starts": "Oct 27, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Saints",
+          "guest": "Cardinals",
+          "starts": "Oct 27, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Jaguars",
+          "guest": "Jets",
+          "starts": "Oct 27, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Texans",
+          "guest": "Raiders",
+          "starts": "Oct 27, 2019 1:00:00 PM"
+        },
+        {
+          "home": "49ers",
+          "guest": "Panthers",
+          "starts": "Oct 27, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Colts",
+          "guest": "Broncos",
+          "starts": "Oct 27, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Patriots",
+          "guest": "Browns",
+          "starts": "Oct 27, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Chiefs",
+          "guest": "Packers",
+          "starts": "Oct 27, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Steelers",
+          "guest": "Dolphins",
+          "starts": "Oct 28, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "games": [
+        {
+          "home": "Cardinals",
+          "guest": "49ers",
+          "starts": "Oct 31, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Jaguars",
+          "guest": "Texans",
+          "starts": "Nov 3, 2019 9:30:00 AM"
+        },
+        {
+          "home": "Bills",
+          "guest": "Redskins",
+          "starts": "Nov 3, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Chiefs",
+          "guest": "Vikings",
+          "starts": "Nov 3, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Dolphins",
+          "guest": "Jets",
+          "starts": "Nov 3, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Eagles",
+          "guest": "Bears",
+          "starts": "Nov 3, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Steelers",
+          "guest": "Colts",
+          "starts": "Nov 3, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Panthers",
+          "guest": "Titans",
+          "starts": "Nov 3, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Raiders",
+          "guest": "Lions",
+          "starts": "Nov 3, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Seahawks",
+          "guest": "Buccaneers",
+          "starts": "Nov 3, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Broncos",
+          "guest": "Browns",
+          "starts": "Nov 3, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Chargers",
+          "guest": "Packers",
+          "starts": "Nov 3, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Ravens",
+          "guest": "Patriots",
+          "starts": "Nov 3, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Giants",
+          "guest": "Cowboys",
+          "starts": "Nov 4, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "games": [
+        {
+          "home": "Raiders",
+          "guest": "Chargers",
+          "starts": "Nov 7, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Bears",
+          "guest": "Lions",
+          "starts": "Nov 10, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Bengals",
+          "guest": "Ravens",
+          "starts": "Nov 10, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Browns",
+          "guest": "Bills",
+          "starts": "Nov 10, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Packers",
+          "guest": "Panthers",
+          "starts": "Nov 10, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Titans",
+          "guest": "Chiefs",
+          "starts": "Nov 10, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Saints",
+          "guest": "Falcons",
+          "starts": "Nov 10, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Jets",
+          "guest": "Giants",
+          "starts": "Nov 10, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Buccaneers",
+          "guest": "Cardinals",
+          "starts": "Nov 10, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Colts",
+          "guest": "Dolphins",
+          "starts": "Nov 10, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Steelers",
+          "guest": "Rams",
+          "starts": "Nov 10, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Cowboys",
+          "guest": "Vikings",
+          "starts": "Nov 10, 2019 8:20:00 PM"
+        },
+        {
+          "home": "49ers",
+          "guest": "Seahawks",
+          "starts": "Nov 11, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "games": [
+        {
+          "home": "Browns",
+          "guest": "Steelers",
+          "starts": "Nov 14, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Lions",
+          "guest": "Cowboys",
+          "starts": "Nov 17, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Colts",
+          "guest": "Jaguars",
+          "starts": "Nov 17, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Dolphins",
+          "guest": "Bills",
+          "starts": "Nov 17, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Vikings",
+          "guest": "Broncos",
+          "starts": "Nov 17, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Buccaneers",
+          "guest": "Saints",
+          "starts": "Nov 17, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Redskins",
+          "guest": "Jets",
+          "starts": "Nov 17, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Panthers",
+          "guest": "Falcons",
+          "starts": "Nov 17, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Ravens",
+          "guest": "Texans",
+          "starts": "Nov 17, 2019 1:00:00 PM"
+        },
+        {
+          "home": "49ers",
+          "guest": "Cardinals",
+          "starts": "Nov 17, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Raiders",
+          "guest": "Bengals",
+          "starts": "Nov 17, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Eagles",
+          "guest": "Patriots",
+          "starts": "Nov 17, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Rams",
+          "guest": "Bears",
+          "starts": "Nov 17, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Chargers",
+          "guest": "Chiefs",
+          "starts": "Nov 18, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "games": [
+        {
+          "home": "Texans",
+          "guest": "Colts",
+          "starts": "Nov 21, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Falcons",
+          "guest": "Buccaneers",
+          "starts": "Nov 24, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Bills",
+          "guest": "Broncos",
+          "starts": "Nov 24, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Bears",
+          "guest": "Giants",
+          "starts": "Nov 24, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Bengals",
+          "guest": "Steelers",
+          "starts": "Nov 24, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Browns",
+          "guest": "Dolphins",
+          "starts": "Nov 24, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Saints",
+          "guest": "Panthers",
+          "starts": "Nov 24, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Jets",
+          "guest": "Raiders",
+          "starts": "Nov 24, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Redskins",
+          "guest": "Lions",
+          "starts": "Nov 24, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Titans",
+          "guest": "Jaguars",
+          "starts": "Nov 24, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Patriots",
+          "guest": "Cowboys",
+          "starts": "Nov 24, 2019 4:25:00 PM"
+        },
+        {
+          "home": "49ers",
+          "guest": "Packers",
+          "starts": "Nov 24, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Eagles",
+          "guest": "Seahawks",
+          "starts": "Nov 24, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Rams",
+          "guest": "Ravens",
+          "starts": "Nov 25, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "games": [
+        {
+          "home": "Lions",
+          "guest": "Bears",
+          "starts": "Nov 28, 2019 12:30:00 PM"
+        },
+        {
+          "home": "Cowboys",
+          "guest": "Bills",
+          "starts": "Nov 28, 2019 4:30:00 PM"
+        },
+        {
+          "home": "Falcons",
+          "guest": "Saints",
+          "starts": "Nov 28, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Bengals",
+          "guest": "Jets",
+          "starts": "Dec 1, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Colts",
+          "guest": "Titans",
+          "starts": "Dec 1, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Chiefs",
+          "guest": "Raiders",
+          "starts": "Dec 1, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Dolphins",
+          "guest": "Eagles",
+          "starts": "Dec 1, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Giants",
+          "guest": "Packers",
+          "starts": "Dec 1, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Panthers",
+          "guest": "Redskins",
+          "starts": "Dec 1, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Jaguars",
+          "guest": "Buccaneers",
+          "starts": "Dec 1, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Ravens",
+          "guest": "49ers",
+          "starts": "Dec 1, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Cardinals",
+          "guest": "Rams",
+          "starts": "Dec 1, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Broncos",
+          "guest": "Chargers",
+          "starts": "Dec 1, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Steelers",
+          "guest": "Browns",
+          "starts": "Dec 1, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Texans",
+          "guest": "Patriots",
+          "starts": "Dec 1, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Seahawks",
+          "guest": "Vikings",
+          "starts": "Dec 2, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "games": [
+        {
+          "home": "Bears",
+          "guest": "Cowboys",
+          "starts": "Dec 5, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Falcons",
+          "guest": "Panthers",
+          "starts": "Dec 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Bills",
+          "guest": "Ravens",
+          "starts": "Dec 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Browns",
+          "guest": "Bengals",
+          "starts": "Dec 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Packers",
+          "guest": "Redskins",
+          "starts": "Dec 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Vikings",
+          "guest": "Lions",
+          "starts": "Dec 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Saints",
+          "guest": "49ers",
+          "starts": "Dec 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Jets",
+          "guest": "Dolphins",
+          "starts": "Dec 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Buccaneers",
+          "guest": "Colts",
+          "starts": "Dec 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Texans",
+          "guest": "Broncos",
+          "starts": "Dec 8, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Jaguars",
+          "guest": "Chargers",
+          "starts": "Dec 8, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Raiders",
+          "guest": "Titans",
+          "starts": "Dec 8, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Patriots",
+          "guest": "Chiefs",
+          "starts": "Dec 8, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Cardinals",
+          "guest": "Steelers",
+          "starts": "Dec 8, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Rams",
+          "guest": "Seahawks",
+          "starts": "Dec 8, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Eagles",
+          "guest": "Giants",
+          "starts": "Dec 9, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "games": [
+        {
+          "home": "Ravens",
+          "guest": "Jets",
+          "starts": "Dec 12, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Bengals",
+          "guest": "Patriots",
+          "starts": "Dec 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Lions",
+          "guest": "Buccaneers",
+          "starts": "Dec 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Packers",
+          "guest": "Bears",
+          "starts": "Dec 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Titans",
+          "guest": "Texans",
+          "starts": "Dec 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Chiefs",
+          "guest": "Broncos",
+          "starts": "Dec 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Giants",
+          "guest": "Dolphins",
+          "starts": "Dec 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Steelers",
+          "guest": "Bills",
+          "starts": "Dec 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Redskins",
+          "guest": "Eagles",
+          "starts": "Dec 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Panthers",
+          "guest": "Seahawks",
+          "starts": "Dec 15, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Raiders",
+          "guest": "Jaguars",
+          "starts": "Dec 15, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Cardinals",
+          "guest": "Browns",
+          "starts": "Dec 15, 2019 4:05:00 PM"
+        },
+        {
+          "home": "Cowboys",
+          "guest": "Rams",
+          "starts": "Dec 15, 2019 4:25:00 PM"
+        },
+        {
+          "home": "49ers",
+          "guest": "Falcons",
+          "starts": "Dec 15, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Chargers",
+          "guest": "Vikings",
+          "starts": "Dec 15, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Saints",
+          "guest": "Colts",
+          "starts": "Dec 16, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 16,
+      "games": [
+        {
+          "home": "Broncos",
+          "guest": "Lions",
+          "starts": "Dec 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Patriots",
+          "guest": "Bills",
+          "starts": "Dec 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Chargers",
+          "guest": "Raiders",
+          "starts": "Dec 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "49ers",
+          "guest": "Rams",
+          "starts": "Dec 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Buccaneers",
+          "guest": "Texans",
+          "starts": "Dec 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Falcons",
+          "guest": "Jaguars",
+          "starts": "Dec 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Browns",
+          "guest": "Ravens",
+          "starts": "Dec 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Titans",
+          "guest": "Saints",
+          "starts": "Dec 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Colts",
+          "guest": "Panthers",
+          "starts": "Dec 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Dolphins",
+          "guest": "Bengals",
+          "starts": "Dec 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Jets",
+          "guest": "Steelers",
+          "starts": "Dec 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Redskins",
+          "guest": "Giants",
+          "starts": "Dec 22, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Eagles",
+          "guest": "Cowboys",
+          "starts": "Dec 22, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Seahawks",
+          "guest": "Cardinals",
+          "starts": "Dec 22, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Bears",
+          "guest": "Chiefs",
+          "starts": "Dec 22, 2019 8:20:00 PM"
+        },
+        {
+          "home": "Vikings",
+          "guest": "Packers",
+          "starts": "Dec 23, 2019 8:15:00 PM"
+        }
+      ]
+    },
+    {
+      "position": 17,
+      "games": [
+        {
+          "home": "Bills",
+          "guest": "Jets",
+          "starts": "Dec 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Bengals",
+          "guest": "Browns",
+          "starts": "Dec 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Cowboys",
+          "guest": "Redskins",
+          "starts": "Dec 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Lions",
+          "guest": "Packers",
+          "starts": "Dec 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Chiefs",
+          "guest": "Chargers",
+          "starts": "Dec 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Vikings",
+          "guest": "Bears",
+          "starts": "Dec 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Patriots",
+          "guest": "Dolphins",
+          "starts": "Dec 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Giants",
+          "guest": "Eagles",
+          "starts": "Dec 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Buccaneers",
+          "guest": "Falcons",
+          "starts": "Dec 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Panthers",
+          "guest": "Saints",
+          "starts": "Dec 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Jaguars",
+          "guest": "Colts",
+          "starts": "Dec 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Ravens",
+          "guest": "Steelers",
+          "starts": "Dec 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Texans",
+          "guest": "Titans",
+          "starts": "Dec 29, 2019 1:00:00 PM"
+        },
+        {
+          "home": "Broncos",
+          "guest": "Raiders",
+          "starts": "Dec 29, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Rams",
+          "guest": "Cardinals",
+          "starts": "Dec 29, 2019 4:25:00 PM"
+        },
+        {
+          "home": "Seahawks",
+          "guest": "49ers",
+          "starts": "Dec 29, 2019 4:25:00 PM"
+        }
+      ]
+    }
+  ]
+}
